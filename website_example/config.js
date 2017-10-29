@@ -1,4 +1,4 @@
-var api = "http://localhost:8117";
+var api = "http://pool.crushcoin.com:8117";
 
 var coinUnits = 10000000000;
 
